@@ -1,2 +1,5 @@
 # Dependency directories
 node_modules/
+app-linux
+app-macos
+*.exe
